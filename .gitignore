@@ -1,0 +1,7 @@
+*.sh
+*.pyc
+*.swp
+server/bin/
+server/lib/
+server/include/
+server/local/
